@@ -1,0 +1,6 @@
+/dataset/
+/model/
+/tmp/
+/.vscode/
+/src/__pycache__/
+bvlc_alexnet.npy
